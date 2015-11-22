@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = "UberBuilder"
-  s.version = "1.0.0"
-  s.summary = "UberBuilder is a small set of macros provided to make building flexible, immutable objects a simple task."
+  s.version = "1.0.1"
+  s.summary = "UberBuilder is a small set of convenience methods provided to make building flexible, immutable objects a simple task."
   s.license = { :type => "Copyrighted", :file => "LICENSE.md" }
   s.homepage = "https://github.com/uber-common/UberBuilder"
   s.authors = { "Uber iOS Team" => "mobile-ios-eng@uber.com" }
