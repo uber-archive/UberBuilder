@@ -9,9 +9,9 @@ UberBuilder is a set of convenience methods provided to make building flexible, 
 
 - iOS 7.0+ / Mac OS X 10.10+
 - Xcode 6.0
-- Cocoapods 0.37.1
+- CocoaPods 0.37.1
 
-## Cocoapods Installation
+## CocoaPods Installation
 
 1. Add UberBuilder as a line in your Podfile `pod 'UberBuilder/Core', '~> 1.0'`
 2. Run `pod install`
